@@ -185,7 +185,7 @@ The project includes documentation covering:
 ## Development
 
 > **Developer:** Usersoft Inc.  
-> **Product:** XMD — Xion Command  
+> **Product:** XMD  
 > **General Application:** XMD  
 > **Companion Application:** XMD COMMANDER  
 > **XMD Version:** 2.0  
