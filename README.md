@@ -115,7 +115,7 @@ python xmd.py
 To launch XMD COMMANDER independently:
 
 ```bash
-python commander.py
+python xmd_commander.py
 ```
 
 ## Command Interface
