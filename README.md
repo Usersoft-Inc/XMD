@@ -1,4 +1,4 @@
-# XMD — Xion Command
+# XMD — Desktop application as shell for Windows CMD
 XMD | XMD Commander
 
 **A Windows command-line environment with an integrated panel-based file manager and standalone companion application.**
