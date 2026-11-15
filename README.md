@@ -106,17 +106,42 @@ Both applications support portable execution without installation.
 
 ## Running from Source
 
-To launch the main XMD application:
+### Requirements
 
-```bash
+- Windows 10 or Windows 11.
+- Python 3.10 or newer.
+- Dependencies listed in `requirements.txt`.
+
+### Install dependencies
+
+Open Command Prompt in the repository directory and run:
+
+```bat
+py -m venv .venv
+.venv\Scripts\activate
+py -m pip install --upgrade pip
+py -m pip install -r requirements.txt
+```
+
+If the `py` launcher is unavailable, use `python` instead.
+
+### Run XMD COMMANDER
+
+To launch the standalone file manager:
+
+```bat
+python xmd_commander.py
+```
+
+The standalone XMD COMMANDER source requires PyQt6. The dependency is installed by the `requirements.txt` file.
+
+### Run the main XMD application
+
+```bat
 python xmd.py
 ```
 
-To launch XMD COMMANDER independently:
-
-```bash
-python xmd_commander.py
-```
+**Note:** The main XMD source entry point loads the compiled core module `main.recovered.pyc`. That file must be present in the expected project location for source execution. The standalone XMD COMMANDER can be launched independently using the instructions above.
 
 ## Command Interface
 
