@@ -18,7 +18,7 @@
 
 1.3. The developer and copyright holder of the product is Usersoft Inc. (hereinafter referred to as the "Developer").
 
-1.4. Installation, launching, or use of any of the product's executable files (`xmd.exe`, `xmd_commander.exe`, `xmd.py`, `commander.py`) constitutes acceptance of the terms of this Agreement.
+1.4. Installation, launching, or use of any of the product's executable files (`xmd.exe`, `xmd_commander.exe`, `xmd.py`) constitutes acceptance of the terms of this Agreement.
 
 1.5. The product is distributed free of charge.
 
