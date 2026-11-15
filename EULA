@@ -1,0 +1,88 @@
+# XMD — END USER LICENSE AGREEMENT (EULA)
+
+**Product Version:** 2.0 (v2.0) · **Revision:** 16.11.2026 · **Developer:** Usersoft Inc.
+
+## 1. GENERAL PROVISIONS
+
+**1.1.** This End User License Agreement (hereinafter referred to as the "Agreement") governs the use of the software product "XMD" (hereinafter referred to as the "Product"), comprising the XMD terminal and the XMD Commander file manager, version 2.0 (v2.0).
+
+**1.2.** The developer and rights holder of the Product is Usersoft Inc. (hereinafter referred to as the "Developer").
+
+**1.3.** By commencing use of the Product — including installing it, launching executable files `xmd.exe` or `xmd_commander.exe`, or running scripts `xmd.py` or `commander.py` — you acknowledge that you fully and unconditionally accept the terms of this Agreement. If you do not agree to these terms, discontinue use and delete all copies of the Product.
+
+**1.4.** The Product is distributed free of charge, without any licensing fees.
+
+## 2. SUBJECT OF THE AGREEMENT AND LICENSE
+
+**2.1.** The Developer grants you a simple (non-exclusive), royalty-free license to use the Product for personal and internal business purposes, without the right to transfer it to third parties.
+
+**2.2.** The license includes the right to install, launch, and use the Product, as well as to create backup copies for personal use.
+
+**2.3.** The results of the Product's operation (files created or modified by you) belong to you. The Developer makes no claim to any rights in user data.
+
+**2.4.** The Product includes third-party open-source components listed in Section 7. Their use is governed by their respective licenses.
+
+**2.5.** The OpenLicence document "LICENCE OL-005-16112026" applies to the creation, publication, and distribution of Usersoft Inc.'s own software products during the period from 16.11.2026 to 16.11.2028. It does not replace this Agreement, modify the term of the end-user license specified in Section 8, or supersede the licenses of third-party components.
+
+## 3. RIGHTS AND RESTRICTIONS
+
+**3.1.** You are permitted to:
+
+- Use the Product for its intended purpose: file system navigation, file viewing and editing, and execution of built-in commands.
+- Copy the Product for backup purposes and transfer it between your own devices.
+- Examine the Product's behavior to the extent necessary for its operation.
+
+**3.2.** You are prohibited from:
+
+- Selling, renting, leasing, or sublicensing the Product.
+- Removing or modifying copyright notices or Product names.
+- Distributing modified copies under the XMD name without the Developer's consent.
+- Using the Product for unlawful activities, including unauthorized access to third-party data.
+
+**3.3.** You are fully responsible for the consequences of commands you execute, including file deletion (`rm`, `add -del`, `xsh -del`), overwriting (`write -ow`), and file movement. Creating backup copies of data before performing destructive operations is strongly recommended.
+
+## 4. DISCLAIMER OF WARRANTIES
+
+**4.1.** The Product is provided on an "AS IS" basis. The Developer does not warrant that the Product will meet your expectations, operate without interruption or errors, or be compatible with all hardware and software configurations.
+
+**4.2.** The Developer is under no obligation to provide technical support, updates, or new versions of the Product.
+
+## 5. LIMITATION OF LIABILITY
+
+**5.1.** To the maximum extent permitted by applicable law, the Developer shall not be liable for data loss, lost profits, downtime, or any other direct or indirect damages arising from the use of, or inability to use, the Product.
+
+**5.2.** The Developer's total aggregate liability for any claim related to the Product shall be limited to the amount actually paid by you for the Product, which is zero, as the Product is distributed free of charge.
+
+## 6. PRIVACY AND DATA PROCESSING
+
+**6.1.** The Product operates locally, does not transmit data over the network, and contains no telemetry.
+
+**6.2.** For diagnostic purposes, the Product maintains local logs: `data/xmd/logs/actions.log` and error reports in `data/xmd/crash_reports` (or `%LOCALAPPDATA%\XMD\data\xmd` if the application directory is unavailable). The contents of write commands (`write -nw` / `write -ow`) are masked in the logs and are not stored.
+
+**6.3.** You are solely responsible for protecting the aforementioned logs if they contain sensitive information, such as file paths or file names.
+
+## 7. THIRD-PARTY COMPONENTS
+
+| Component | Version | License |
+|---|---|---|
+| Python | 3.15 | PSF License (Python Software Foundation) |
+| PyQt6 / Qt | 6.12 | GPL v3 or a commercial license from Riverbank Computing |
+| PyInstaller | Current | GPL v2 with an exception for bundled applications |
+
+**7.1.** The components listed above are distributed under their respective licenses. The full license texts are available from their respective rights holders. Use of the Product does not exempt you from complying with the terms of these licenses.
+
+## 8. TERM AND TERMINATION
+
+**8.1.** This Agreement enters into force upon the first launch of the Product and remains effective until use of the Product is discontinued.
+
+**8.2.** In the event of a breach of this Agreement, the license automatically terminates, and you are required to delete all copies of the Product.
+
+## 9. AMENDMENTS TO THE TERMS
+
+**9.1.** The Developer reserves the right to amend this Agreement in new versions of the Product. Continued use of a new version constitutes acceptance of the updated terms.
+
+## 10. FINAL PROVISIONS
+
+**10.1.** Disputes related to the use of the Product shall be resolved through negotiations or, if no agreement can be reached, in accordance with the procedures established by applicable law.
+
+**10.2.** This revision
