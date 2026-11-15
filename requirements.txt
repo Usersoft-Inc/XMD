@@ -1,2 +1,2 @@
-# XMD COMMANDER runtime dependency
+# XMD and XMD COMMANDER runtime dependency
 PyQt6>=6.12,<7
