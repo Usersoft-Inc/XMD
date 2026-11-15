@@ -1,5 +1,4 @@
 # XMD — Desktop application as shell for Windows CMD
-XMD | XMD Commander
 
 **A Windows command-line environment with an integrated panel-based file manager and standalone companion application.**
 
@@ -20,8 +19,6 @@ XMD provides a dedicated command-line environment with file system management, c
 The XMD ecosystem also includes **XMD COMMANDER** — a panel-based file manager integrated directly into the main XMD terminal while also being distributed as an independent desktop application.
 
 Both applications can operate independently or together as part of the XMD environment.
-
-For more information, please check the directory "Documentation" into release archive.
 
 ## Components
 
@@ -187,13 +184,13 @@ The project includes documentation covering:
 
 ## Development
 
-**Developer:** Usersoft Inc.  
-**Products:** XMD & XMD Commander
-**General Application:** XMD 
-**Companion Application:** XMD Commander 
-**XMD Version:** 2.0  
-**XMD COMMANDER Version:** 2.0  
-**Release Year:** 2026
+> **Developer:** Usersoft Inc.  
+> **Product:** XMD — Xion Command  
+> **General Application:** XMD  
+> **Companion Application:** XMD COMMANDER  
+> **XMD Version:** 2.0  
+> **XMD COMMANDER Version:** 2.0  
+> **Release Year:** 2026
 
 XMD is part of the **XSystem** software ecosystem.
 
