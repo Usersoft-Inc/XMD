@@ -188,8 +188,9 @@ The project includes documentation covering:
 ## Development
 
 **Developer:** Usersoft Inc.  
-**Product:** XMD — Xion Command  
-**Companion Application:** XMD COMMANDER  
+**Products:** XMD & XMD Commander
+**General Application:** XMD 
+**Companion Application:** XMD Commander 
 **XMD Version:** 2.0  
 **XMD COMMANDER Version:** 2.0  
 **Release Year:** 2026
