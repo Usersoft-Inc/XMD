@@ -1,0 +1,2 @@
+# XMD COMMANDER runtime dependency
+PyQt6>=6.12,<7
