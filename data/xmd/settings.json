@@ -1,0 +1,10 @@
+{
+  "font": "Consolas",
+  "palette": "Default (XMD)",
+  "size": 2,
+  "transparency": 0,
+  "chcp": "866",
+  "hide_console": true,
+  "startup_dir": "C:\\",
+  "debug": false
+}
