@@ -207,6 +207,15 @@ The project includes documentation covering:
 - File editing and saving.
 - Diagnostics and troubleshooting.
 
+## License
+
+XMD is distributed under the **Usersoft Inc. Proprietary Freeware License (UPFL) v1.0**.
+
+- [UPFL — Usersoft Inc. Proprietary Freeware License](UPFL/UPFL.md)
+- [EULA — End User License Agreement](EULA/EULA.md)
+
+By downloading, installing, or using XMD, you agree to the terms of the applicable license and EULA.
+
 ## Development
 
 > **Developer:** Usersoft Inc.  
