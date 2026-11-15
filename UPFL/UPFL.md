@@ -3,6 +3,7 @@
 **Version:** 1.0  
 **Revision date:** November 16, 2026  
 **Copyright holder:** Usersoft Inc.  
+**Products:** XMD, XMD COMMANDER  
 **License type:** Proprietary Freeware License
 
 Copyright © 2026 Usersoft Inc. All rights reserved.
